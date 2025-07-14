@@ -20,5 +20,6 @@
         "roomid":"3984",
         "seatid":["086"],
         "daysofweek": ["Monday" , "Tuesday", "Wednesday", "Thursday", "Friday","Saturday" , "Sunday"]
+        }
     }
 }
